@@ -46,4 +46,4 @@ AirBeep 会请求以下系统文件的容器级访问权限：
 ## 许可证 / License
 
 AirBeep 以 [GNU 通用公共许可证 v3.0](LICENSE) 发布。
-编辑.
+编
